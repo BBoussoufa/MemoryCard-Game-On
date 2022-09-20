@@ -1,4 +1,4 @@
-# Battlefield Game
+# Memory Card Game
 
 ## Description
 
@@ -18,8 +18,8 @@
 - CSS
 - JavaScript
 
+
 ## Future plans
 
-- Enhance the App into a real web application
 - Add functionality for games between two users
 - Use my imagination to make something unique
